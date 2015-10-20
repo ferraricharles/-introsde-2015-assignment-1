@@ -1,44 +1,17 @@
-For testing the software proceed with the following procedure:
+[Only educational porpouses software]
+This is the second version of Health Profile Reader and Writter
 
-the instruction [folder] represents the folder where you pasted the source
+Changes made:
+- The interactive part was removed
+- The build.xml has a new feature added (execute.evaluation), that execute automatically the required procedures
 
-##############
-For testing JSon Creation:
-##############
-Make sure you have ant installed on your machine and then, type on console 
-the following instructions
+During load the program works with marshall and unmarchall procedures
 
-  cd [folder]/charles 
-  ant compile
-  ant execute.HPJson
+In order to try it you need to have ant installed, clone it to your machine, go to the main folder and type the following instructions
 
+ant compile
+ant execute.evaluation
 
-##############
-For testing XML file creation
-##############
-Type the following instructions
+In case you want to try the old interactive version of the reader, go to the HealthProfileReader.java, comment the executions and uncomment the switch case instructions. 
 
-  cd [folder]/charles/src
-  javac HealthProfileWriter.java
-  java HealthProfileWriter
-
-
-##############
-For testing the navegation on the executed file
-##############
-
-Type the following instructions
-  cd [folder]/charles/src
-  javac HealthProfileReader.java
-  java HealthProfileReader
-
-Now that you are executing the program, you just need to follow the main menu 
-instructions in order to try out the Profile Reader funcions
-
-##############
-Useful information
-##############
-
--The IDs go from 1 to 20
-- 
-
+Have fun searching famous acress Health Profile (Again, this is just for educational / fun porpouses)

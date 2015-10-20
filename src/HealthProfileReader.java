@@ -174,9 +174,19 @@ public class HealthProfileReader{
 				   "5- Get register from a wieght comparison\n");
 	}
 	public static void main (String[] args) throws Exception{
-		printMenuOptions();
+		//printMenuOptions();
 		HealthProfileReader hpr = new HealthProfileReader();
 		hpr.loadXML();
+		
+		System.out.println("Printing Lists of inserted users");
+		showEverything();
+
+		System.out.println("\n\n\n\nPrinting user 5");
+		hpr.printPersonById(5);	
+
+		System.out.println("\n\n\n\nPrinting users with weight > 55");
+		hpr.getPeopleByWeight(55, ">");	
+		/*
 		Scanner sc = new Scanner(System.in);
 		int n = sc.nextInt();
 		while(n!=0){
@@ -200,7 +210,7 @@ public class HealthProfileReader{
 
 			printMenuOptions();
 			n = sc.nextInt();
-		}
+		}*/
 
 	}
 	
