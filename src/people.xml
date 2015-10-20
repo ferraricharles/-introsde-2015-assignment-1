@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<people>
+    <peopleList>
+        <person id="1">
+            <firstname>Adriana</firstname>
+            <lastname>Lima</lastname>
+            <birthdate>1985-02-01</birthdate>
+            <healthprofile>
+                <weight>50.0</weight>
+                <height>177.8</height>
+                <bmi>0.001581635816332857</bmi>
+                <lastUpdate>2015/10/20 12:53:26</lastUpdate>
+            </healthprofile>
+        </person>
+        <person id="2">
+            <firstname>Alicia</firstname>
+            <lastname>Keys</lastname>
+            <birthdate>1990-03-03</birthdate>
+            <healthprofile>
+                <weight>52.0</weight>
+                <height>167.64</height>
+                <bmi>0.0018503250964261345</bmi>
+                <lastUpdate>2015/10/20 12:53:26</lastUpdate>
+            </healthprofile>
+        </person>
+        <person id="3">
+            <firstname>Angelina</firstname>
+            <lastname>Jolie</lastname>
+            <birthdate>1991-04-20</birthdate>
+            <healthprofile>
+                <weight>53.0</weight>
+                <height>172.72</height>
+                <bmi>0.0017766038992285595</bmi>
+                <lastUpdate>2015/10/20 12:53:26</lastUpdate>
+            </healthprofile>
+        </person>
+        <person id="4">
+            <firstname>Anna</firstname>
+            <lastname>Kournikova</lastname>
+            <birthdate>1969-05-25</birthdate>
+            <healthprofile>
+                <weight>52.0</weight>
+                <height>172.72</height>
+                <bmi>0.0017430830709412282</bmi>
+                <lastUpdate>2015/10/20 12:53:26</lastUpdate>
+            </healthprofile>
+        </person>
+        <person id="5">
+            <firstname>Ashley</firstname>
+            <lastname>Judd</lastname>
+            <birthdate>1999-06-12</birthdate>
+            <healthprofile>
+                <weight>54.0</weight>
+                <height>170.18</height>
+                <bmi>0.0018645615370981243</bmi>
+                <lastUpdate>2015/10/20 12:53:26</lastUpdate>
+            </healthprofile>
+        </person>
+        <person id="6">
+            <firstname>Avril</firstname>
+            <lastname>Lavigne</lastname>
+            <birthdate>1980-07-27</birthdate>
+            <healthprofile>
+                <weight>50.0</weight>
+                <height>157.48</height>
+                <bmi>0.0020161330645241935</bmi>
+                <lastUpdate>2015/10/20 12:53:26</lastUpdate>
+            </healthprofile>
+        </person>
+        <person id="7">
+            <firstname>Bar</firstname>
+            <lastname>Rafaeli</lastname>
+            <birthdate>1979-08-30</birthdate>
+            <healthprofile>
+                <weight>56.0</weight>
+                <height>174.0</height>
+                <bmi>0.0018496498876998282</bmi>
+                <lastUpdate>2015/10/20 12:53:26</lastUpdate>
+            </healthprofile>
+        </person>
+        <person id="8">
+            <firstname>Beyonce</firstname>
+            <lastname>Knowles</lastname>
+            <birthdate>1977-09-10</birthdate>
+            <healthprofile>
+                <weight>57.0</weight>
+                <height>167.64</height>
+                <bmi>0.0020282409710824937</bmi>
+                <lastUpdate>2015/10/20 12:53:26</lastUpdate>
+            </healthprofile>
+        </person>
+        <person id="9">
+            <firstname>Blake</firstname>
+            <lastname>Lively</lastname>
+            <birthdate>1987-10-21</birthdate>
+            <healthprofile>
+                <weight>54.0</weight>
+                <height>172.72</height>
+                <bmi>0.001810124727515891</bmi>
+                <lastUpdate>2015/10/20 12:53:26</lastUpdate>
+            </healthprofile>
+        </person>
+        <person id="10">
+            <firstname>Britney</firstname>
+            <lastname>Spears</lastname>
+            <birthdate>1990-11-22</birthdate>
+            <healthprofile>
+                <weight>47.0</weight>
+                <height>162.56</height>
+                <bmi>0.0017785680102610205</bmi>
+                <lastUpdate>2015/10/20 12:53:26</lastUpdate>
+            </healthprofile>
+        </person>
+        <person id="11">
+            <firstname>Calista</firstname>
+            <lastname>Flockhart</lastname>
+            <birthdate>1991-12-05</birthdate>
+            <healthprofile>
+                <weight>42.0</weight>
+                <height>167.64</height>
+                <bmi>0.0014944933471134163</bmi>
+                <lastUpdate>2015/10/20 12:53:26</lastUpdate>
+            </healthprofile>
+        </person>
+        <person id="12">
+            <firstname>Cameron</firstname>
+            <lastname>Diaz</lastname>
+            <birthdate>1995-12-20</birthdate>
+            <healthprofile>
+                <weight>49.0</weight>
+                <height>173.99</height>
+                <bmi>0.0016186296957814224</bmi>
+                <lastUpdate>2015/10/20 12:53:26</lastUpdate>
+            </healthprofile>
+        </person>
+        <person id="13">
+            <firstname>Carmen</firstname>
+            <lastname>Electra</lastname>
+            <birthdate>1994-01-05</birthdate>
+            <healthprofile>
+                <weight>49.0</weight>
+                <height>160.02</height>
+                <bmi>0.0019135840740817282</bmi>
+                <lastUpdate>2015/10/20 12:53:26</lastUpdate>
+            </healthprofile>
+        </person>
+        <person id="14">
+            <firstname>Carrie</firstname>
+            <lastname>Underwood</lastname>
+            <birthdate>1959-05-08</birthdate>
+            <healthprofile>
+                <weight>52.0</weight>
+                <height>160.02</height>
+                <bmi>0.002030742282698977</bmi>
+                <lastUpdate>2015/10/20 12:53:26</lastUpdate>
+            </healthprofile>
+        </person>
+        <person id="15">
+            <firstname>Cate</firstname>
+            <lastname>Blanchett</lastname>
+            <birthdate>2000-03-10</birthdate>
+            <healthprofile>
+                <weight>52.0</weight>
+                <height>173.99</height>
+                <bmi>0.0017177294730741626</bmi>
+                <lastUpdate>2015/10/20 12:53:26</lastUpdate>
+            </healthprofile>
+        </person>
+        <person id="16">
+            <firstname>Catherine</firstname>
+            <lastname>Zeta Jones</lastname>
+            <birthdate>2001-02-20</birthdate>
+            <healthprofile>
+                <weight>54.0</weight>
+                <height>172.72</height>
+                <bmi>0.001810124727515891</bmi>
+                <lastUpdate>2015/10/20 12:53:26</lastUpdate>
+            </healthprofile>
+        </person>
+        <person id="17">
+            <firstname>Charlize</firstname>
+            <lastname>Theron</lastname>
+            <birthdate>1996-09-23</birthdate>
+            <healthprofile>
+                <weight>56.0</weight>
+                <height>176.53</height>
+                <bmi>0.0017970120304403954</bmi>
+                <lastUpdate>2015/10/20 12:53:26</lastUpdate>
+            </healthprofile>
+        </person>
+        <person id="18">
+            <firstname>Christina</firstname>
+            <lastname>Aguilera</lastname>
+            <birthdate>1985-03-19</birthdate>
+            <healthprofile>
+                <weight>57.0</weight>
+                <height>156.21</height>
+                <bmi>0.00233591583582136</bmi>
+                <lastUpdate>2015/10/20 12:53:26</lastUpdate>
+            </healthprofile>
+        </person>
+        <person id="19">
+            <firstname>Ciara9</firstname>
+            <lastname>Ciara</lastname>
+            <birthdate>2000-03-13</birthdate>
+            <healthprofile>
+                <weight>45.0</weight>
+                <height>172.72</height>
+                <bmi>0.0015084372729299092</bmi>
+                <lastUpdate>2015/10/20 12:53:26</lastUpdate>
+            </healthprofile>
+        </person>
+        <person id="20">
+            <firstname>Cindy</firstname>
+            <lastname>Crawford</lastname>
+            <birthdate>1985-03-11</birthdate>
+            <healthprofile>
+                <weight>58.0</weight>
+                <height>177.8</height>
+                <bmi>0.001834697546946114</bmi>
+                <lastUpdate>2015/10/20 12:53:26</lastUpdate>
+            </healthprofile>
+        </person>
+    </peopleList>
+</people>
